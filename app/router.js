@@ -7,6 +7,9 @@ const Router = Ember.Router.extend({
 });
 
 Router.map(function() {
+  this.route('countries', function() {
+    this.route('cities');
+  });
 });
 
 export default Router;

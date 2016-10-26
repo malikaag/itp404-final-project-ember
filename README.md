@@ -1,5 +1,7 @@
 # Project
 
+This project will be an application that manages where you'd like to travel in the world. I plan to incorporate the google maps API and create pins wherever the user specifies is a desired location. 
+
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
 
